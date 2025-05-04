@@ -18,3 +18,5 @@ Proyecto de código abierto.
 Documentación detallada. 
 Fácil implementación
 Integra herramientas que promueven el uso de buenas prácticas de desarrollo de software. 
+
+Firma Daniel
