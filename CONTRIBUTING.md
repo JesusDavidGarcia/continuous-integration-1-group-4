@@ -1,7 +1,7 @@
 # Guía de Onboarding Rápido para Nuevos Desarrolladores
 
 ## 1. Clona el repositorio
-git clone https://github.com/JesusDavidGarcia/continuos-integration-1-group-4.git \
+git clone https://github.com/JesusDavidGarcia/continuous-integration-1-group-4.git \
 cd continuos-integration-1-group-4
 
 ## 2. Crea tu rama personal de trabajo
