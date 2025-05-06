@@ -17,4 +17,5 @@ Enfoque en la experiencia del desarrollador (DX): Incluye configuraciones que me
 Proyecto de código abierto.
 Documentación detallada. 
 Fácil implementación
-Integra herramientas que promueven el uso de buenas prácticas de desarrollo de software. 
+Integra herramientas que promueven el uso de buenas prácticas de desarrollo de software.
+### LAC Anade un comentario de prueba
