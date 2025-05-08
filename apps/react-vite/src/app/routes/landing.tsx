@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router';
 
-import logo from '@/assets/logo.svg';
+import logo from '@/assets/inesdi-logo.webp';
 import { Head } from '@/components/seo';
 import { Button } from '@/components/ui/button';
 import { paths } from '@/config/paths';
