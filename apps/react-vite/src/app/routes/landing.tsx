@@ -27,7 +27,8 @@ const LandingRoute = () => {
             <span className="block">Bulletproof React</span>
           </h2>
           <img src={logo} alt="react" />
-          <p>Showcasing Best Practices For Building React Applications</p>
+          <p>Mostando mejores praticas para aplicaciones en React
+          </p>
           <div className="mt-8 flex justify-center">
             <div className="inline-flex rounded-md shadow">
               <Button
