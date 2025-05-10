@@ -28,7 +28,7 @@ export const UpdateProfile = () => {
     <FormDrawer
       isDone={updateProfileMutation.isSuccess}
       triggerButton={
-        <Button icon={<Pen className="size-4" />} size="sm">
+        <Button icon={<Pen className="size-4" />} size="lg">{/* Cambio hecho por Rodrigo */}
           Update Profile
         </Button>
       }
